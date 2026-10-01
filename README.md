@@ -4,14 +4,24 @@ Here is my experiences and knowledge I earned in my work and self study and team
 
 In this repo, we will take a look at some concepts of IT world and describe them as brief as I can.
 
-## AD Self Service
+## IP Calculation
 
 ## Dictionary
 
+## Cameras
+
+## AD Self Service
+
+## ISE
+
 ## CCNA
 
-## Mikrotik
+## Switch
 
-## IP Calculation
+## Router
 
-## 
+### Mikrotik
+
+## Firewall
+
+## ESXI
